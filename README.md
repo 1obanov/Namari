@@ -1,5 +1,5 @@
 # Namari
-Please look at my Responsive Landing Page Temlate based on PSD file.
+Please have a look at my Responsive Landing Page Temlate based on PSD file.
 
 #### Live preview --> [Namari](https://1obanov.github.io/Namari/)
 
